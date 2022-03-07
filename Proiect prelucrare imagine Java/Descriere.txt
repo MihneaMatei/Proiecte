@@ -1,1 +1,0 @@
-Prezentul proiect isi propune prelucrarea unei imagini folosind limbajul Java prin intermediul algoritmului Zero-Order Hold. Algoritmul efectueaza marirea/micsorarea de 2*n ori a unei imagini date. In implementare au fost utilizate toate conceptele specifice OOP (incapsulare, polimorfism, abstractizare si mostenire).
