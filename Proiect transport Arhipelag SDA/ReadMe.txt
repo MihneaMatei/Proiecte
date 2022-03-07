@@ -1,5 +1,4 @@
 Nume si prenume: Matei Mihnea-Cristian
-Grupa: 314AB
 Lucrare: Marele arhipelag Eao-Zinci
 
 Scopul lucrarii: Automatizarea unui sistem de transport prin crearea unui cod capabil sa efectueze calculele necesare
