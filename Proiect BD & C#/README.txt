@@ -1,0 +1,3 @@
+Aplicatia creata are ca scop gestionarea proceselor unui tribunal. Un tribunal are in gestiune mai multe judecatorii, judecatori, avocati si civili din diferite orase.
+	Tabelul principal este cel pentru procese, iar pentru a putea introduce intrari in acest tabel este nevoie de date cuprinse in alte tabele: avocati, civili, judecatori, judecatorii, orase, categorii de dosare, dosare. Fiecare proces este caracterizat de un cod unic si de mai multe campuri ce il definesc: judecatoria la care se judeca, judecatorul, avocatii si civilii care participa la el, dosarul judecat si data procesului.
+	Interfata proiectului a fost realizata in Visual Studio, folosing limbajul C# si folosind Windows Forms. Tabelele si query-urile au fost scrise si testate folosind SQL Server 2014.
