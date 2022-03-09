@@ -1,5 +1,4 @@
 Nume si prenume: Matei Mihnea-Cristian
-Grupa: 314AB
 Lucrare: ATP-Cup
 
 Scopul lucrarii: Automatizarea unui turneu de tenis prin crearea unui cod capabil sa efectueze calculele necesare
